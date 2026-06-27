@@ -309,7 +309,7 @@ const Payment = () => {
     };
 
     img.onerror = () => alert("rzp.jpg not found in public folder");
-    img.src = "/rosh-qr.jpg";
+    img.src = "/upi_1782547419498.png";
   };
 
   return (
